@@ -55,7 +55,7 @@ export class News extends Component {
         //         loading: false
         //     })
         // }
-        this.setState({ page: this.state.page + 1 });
+        this.setState({ page: this.state.page += 1 });
         this.updateNews();
 
 
@@ -75,14 +75,14 @@ export class News extends Component {
         //     articles: parsedData.articles,
         //     loading: false
         // })
-        this.setState({ page: this.state.page - 1 });
+        this.setState({ page: this.state.page -= 1 });
         this.updateNews();
 
     }
     render() {
         return (
             <div className="container my-3">
-                <h1>NewsMonkey - TopHeadlines</h1>
+                <h1>NewsHub - TopHeadlines</h1>
                 {this.state.loading && <Spiner />}
 
                 <div className="row">
