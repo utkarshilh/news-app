@@ -17,8 +17,8 @@
         <li>External Api</li>
     </ul>
     
-
-    <h2>Screenshots</h2>
+<br>
+ <h2>Screenshots</h2>
 <img width="800" alt="Screenshot 2022-05-02 at 3 20 04 PM" src="https://user-images.githubusercontent.com/68503623/166217290-06e2361b-bd45-4b73-af6f-803553c675da.png">
 
 <br>
@@ -35,7 +35,7 @@
 
 <hr>
 
-<h5>This is the moblile veiw</h5>
+<h2>This is the moblile veiw</h2>
 <img width="500" align= "center" alt="Screenshot 2022-05-02 at 3 20 04 PM" src="https://user-images.githubusercontent.com/68503623/166216960-3595197b-9443-4401-9923-a94ac1efc55d.png">
 <br>
 <br>
