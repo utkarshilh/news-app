@@ -17,8 +17,8 @@
         <li>External Api</li>
     </ul>
     
-    <h1>Screenshots</h1>
 
+    <h1>Screenshots</h1>
 <img width="800" alt="Screenshot 2022-05-02 at 3 20 04 PM" src="https://user-images.githubusercontent.com/68503623/166217290-06e2361b-bd45-4b73-af6f-803553c675da.png">
 
 <br>
