@@ -8,6 +8,15 @@
 </p>    
 
 
+ <h1>Features</h1>
+    <ul>
+        <li>CardView</li>
+        <li>Loaders</li>
+        <li>Navigation Drawer</li>
+        <li>News category</li>
+        <li>External Api</li>
+    </ul>
+
 <img width="800" alt="Screenshot 2022-05-02 at 3 20 04 PM" src="https://user-images.githubusercontent.com/68503623/166217290-06e2361b-bd45-4b73-af6f-803553c675da.png">
 
 <br>
