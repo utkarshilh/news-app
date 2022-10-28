@@ -1,9 +1,6 @@
 <h1>NewsHub</h1>
 
-<p> NewsHub is react WebApp the displays the  top headlines of current day and <br>
-    The purpose of this app is to get the basic idea of the react and its working 
-    This app fetch the external api and get the top headlines from there 
-    ReactNews app also allow to set the category of news like general , entertainment etc 
+<p> The goal is to create a News Feed app which gives a user regularly-updated news from the internet related to a particular topic, person, or location. In this project, use News API. This is a well-maintained API which returns information in a JSON format.
     
 </p>    
 
